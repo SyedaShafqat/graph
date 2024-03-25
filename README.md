@@ -25,4 +25,5 @@ plt.legend()
 
 # Display the plot
 plt.show()
-![Graph Output](path/to/your/screenshot.png)
+![Graph Output](https://raw.githubusercontent.com/SyedaShafqat/graph/master/graph.png)
+
